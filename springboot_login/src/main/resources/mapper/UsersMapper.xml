@@ -8,8 +8,8 @@
      例如namespace="me.gacl.mapping.userMapper"
      就是me.gacl.mapping(包名)+userMapper(userMapper.xml文件去除后缀)
  -->
-<mapper namespace="com.yun.mapper.UserMapper">
-    <select id="queryUserList" resultType="user">
+<mapper namespace="com.yun.dao.UserDao">
+    <select id="login" resultType="user">
         select * from user where username =#{param1} and password=#{param2}
     </select>
 

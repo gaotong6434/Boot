@@ -8,6 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="boot_quick" />
         <module name="boot_quick2" />
+        <module name="demo" />
+        <module name="jpa" />
+        <module name="luckymoney" />
+        <module name="springboot_login" />
         <module name="springboot_mybatis" />
         <module name="springboot_quick2" />
       </profile>
@@ -16,6 +20,10 @@
       <module name="boot" target="1.8" />
       <module name="boot_quick" target="1.8" />
       <module name="boot_quick2" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="jpa" target="1.8" />
+      <module name="luckymoney" target="1.8" />
+      <module name="springboot_login" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
       <module name="springboot_quick2" target="1.8" />
     </bytecodeTargetLevel>
@@ -25,6 +33,10 @@
       <module name="boot" options="-parameters" />
       <module name="boot_quick" options="-parameters" />
       <module name="boot_quick2" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="jpa" options="-parameters" />
+      <module name="luckymoney" options="-parameters" />
+      <module name="springboot_login" options="-parameters" />
       <module name="springboot_mybatis" options="-parameters" />
       <module name="springboot_quick2" options="-parameters" />
     </option>

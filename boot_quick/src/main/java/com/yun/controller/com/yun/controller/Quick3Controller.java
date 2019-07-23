@@ -11,17 +11,16 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class Quick3Controller {
 
 
-
     private String name;
 
     private String addr;
 
     @RequestMapping("/quick3")
     @ResponseBody
-    public String quick2(){
+    public String quick2() {
 
 
-        return "name"+name+"addr="+addr;
+        return "name" + name + "addr=" + addr;
     }
 
     public String getName() {

@@ -6,6 +6,10 @@
         <option value="$PROJECT_DIR$/boot_quick/pom.xml" />
         <option value="$PROJECT_DIR$/boot_quick2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_login/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/luckymoney/pom.xml" />
       </list>
     </option>
   </component>

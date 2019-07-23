@@ -16,11 +16,11 @@ public class MybatisController {
 
     @RequestMapping("/query")
     @ResponseBody
-    public List<User> queryUserList(){
+    public List<User> queryUserList() {
 
-       List<User> users = userMapper.queryUserList();
+        List<User> users = userMapper.queryUserList();
 
         System.out.println(users);
-       return users;
+        return users;
     }
 }

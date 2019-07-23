@@ -14,9 +14,9 @@ public class Quick2Controller {
 
     @RequestMapping("/quick2")
     @ResponseBody
-    public String quick2(){
+    public String quick2() {
 
 
-        return "name"+name;
+        return "name" + name;
     }
 }

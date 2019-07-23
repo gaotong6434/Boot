@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boot_quick/boot_quick.iml" filepath="$PROJECT_DIR$/boot_quick/boot_quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot_quick2/boot_quick2.iml" filepath="$PROJECT_DIR$/boot_quick2/boot_quick2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learnBoot.iml" filepath="$PROJECT_DIR$/learnBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/jpa.iml" filepath="$PROJECT_DIR$/jpa/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckymoney/luckymoney.iml" filepath="$PROJECT_DIR$/luckymoney/luckymoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_login/springboot_login.iml" filepath="$PROJECT_DIR$/springboot_login/springboot_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" />
     </modules>
   </component>

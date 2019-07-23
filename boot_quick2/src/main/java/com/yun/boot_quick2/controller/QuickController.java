@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class QuickController {
 
     @RequestMapping("/quick")
-    public String quick(){
+    public String quick() {
         return "springBoot hhhh";
     }
 }

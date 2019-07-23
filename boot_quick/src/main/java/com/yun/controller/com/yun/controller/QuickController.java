@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class QuickController {
     @RequestMapping("/quick")
     @ResponseBody
-    public String quick(){
+    public String quick() {
         return "hello";
     }
 }
